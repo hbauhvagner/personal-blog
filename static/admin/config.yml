@@ -1,5 +1,7 @@
 backend:
   name: test-repo
+  name: github
+  repo: hbauhvagner/personal-blog
 
 media_folder: static/assets
 public_folder: assets
